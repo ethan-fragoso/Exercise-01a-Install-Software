@@ -10,4 +10,4 @@ Ethan Fragoso
 ethan-fragoso
 
 ## I have installed the software on my computer as a part of the exercise
-Not sure how to add VS Studio to my applications tab in finder. Is that necessary?
+Not sure how to add VS Studio to my applications tab in finder.
